@@ -1,7 +1,6 @@
 # 开源项目贡献统计
 
-## Contributions
-(7 merged)
+## Contributions(7 merged)
 
 
 * [**gwuhaolin/lightsocks**(★405)](https://github.com/gwuhaolin/lightsocks) - [fix doc alignment by tab to space](https://github.com/gwuhaolin/lightsocks/pull/33)
