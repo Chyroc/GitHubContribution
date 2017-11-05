@@ -1,38 +1,4 @@
-# MyContribution
-
-Crawl all merged pull request and show on `README.md`
-
-## Basic
-
-### Dependencies
-
- - Python 3.5+
- - request (only in sync mode)
-
-```bash
-pip3 install request
-```
- - aiohttp (only in async mode)
-
-```bash
-pip3 install aiohttp
-```
-
-### How to use
-
-Fork this repository and 
-
-```bash
-# 密码模式
-python3 contribution.py
-
-# token模式
-python3 contribution.py -t <github token>
-```
-
-Default mode is `ASYNC`, if error happened, you can try slower `--sync` mode.
-
-Use `--help` to see full options and usage.
+# 开源项目贡献统计
 
 ## Contributions(7 merged)
 
