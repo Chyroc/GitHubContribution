@@ -374,7 +374,7 @@ class ContributionsCrawler(object):
 
         prs = list(filter(lambda x: not x.repo.name.startswith('{}/'.format(self.__username)), prs))
 
-        content_list = [_BASE_CONTENT, "({} merged)\n\n".format(len(prs))]
+        content_list = ["({} merged)\n\n".format(len(prs))]
         for repo, pr in itertools.groupby(prs, key=lambda x: x.repo.name):
             pr = list(pr)
             if len(pr) == 1:
@@ -388,7 +388,7 @@ class ContributionsCrawler(object):
 
         _step('Writing data to {}', filename)
         with open(filename, 'w') as f:
-            f.writelines('\n'.join(content_list))
+            f.writelines(_BASE_CONTENT + '\n'.join(content_list))
         _ok()
 
     def push(self):
