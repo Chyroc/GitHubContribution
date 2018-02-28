@@ -1,6 +1,6 @@
 # 开源项目贡献统计
 
-## Contributions(12 merged)
+## Contributions(13 merged)
 
 
 * [**Leviathan1995/MyContribution**(★13)](https://github.com/Leviathan1995/MyContribution)
@@ -10,8 +10,9 @@
   * [add use token to fetch data](https://github.com/Leviathan1995/MyContribution/pull/6)
 * [**airyland/vux**(★11335)](https://github.com/airyland/vux) - [fix docs use i18n link err](https://github.com/airyland/vux/pull/2130)
 * [**dudustin/Java**(★3)](https://github.com/dudustin/Java) - [添加了git忽略文件](https://github.com/dudustin/Java/pull/1)
-* [**gwuhaolin/lightsocks**(★1031)](https://github.com/gwuhaolin/lightsocks) - [fix doc alignment by tab to space](https://github.com/gwuhaolin/lightsocks/pull/33)
-* [**kennethreitz/requests-html**(★4702)](https://github.com/kennethreitz/requests-html)
+* [**gwuhaolin/lightsocks**(★1032)](https://github.com/gwuhaolin/lightsocks) - [fix doc alignment by tab to space](https://github.com/gwuhaolin/lightsocks/pull/33)
+* [**kennethreitz/requests-html**(★4855)](https://github.com/kennethreitz/requests-html)
+  * [clean and format code](https://github.com/kennethreitz/requests-html/pull/56)
   * [add gitignore and remove .DS_Store](https://github.com/kennethreitz/requests-html/pull/43)
   * [fix https://github.com/kennethreitz/requests-html/issues/10 : links contain javascript:;](https://github.com/kennethreitz/requests-html/pull/11)
 * [**littlecodersh/trip**(★176)](https://github.com/littlecodersh/trip) - [Fix/lack import](https://github.com/littlecodersh/trip/pull/2)
